@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-07-04T00:27:08.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BLFMP3J87maX98zki0-X" version="24.6.4" type="device">
+  <diagram name="Page-1" id="C8AOPYaw0sMBgSE07njO">
+    <mxGraphModel dx="913" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-2" target="Cun0taKMU7-x4VBPKiKw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-4" target="Cun0taKMU7-x4VBPKiKw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-4" value="Box mục tiêu&amp;nbsp;&lt;div&gt;-&amp;gt; Dự đoán thuê bao mua gói&lt;div&gt;-&amp;gt; Config&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-7" target="Cun0taKMU7-x4VBPKiKw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-7" value="Lưu mục tiêu với tên:&lt;div&gt;Dự đoán thuê bao mua gói &amp;lt;Tên mục tiêu&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-8" target="Cun0taKMU7-x4VBPKiKw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405.2608695652175" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-8" target="Cun0taKMU7-x4VBPKiKw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-8" value="Popup config&lt;div&gt;+ Tên mục tiêu&lt;br&gt;&lt;div&gt;+ Chu kỳ: Dự đoán ngày/ tháng&lt;/div&gt;&lt;div&gt;+Nhãn (&lt;span style=&quot;background-color: initial;&quot;&gt;Tên gói làm nhãn)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ Số lượng thuê bao mục tiêu&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-40" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cun0taKMU7-x4VBPKiKw-12" target="Cun0taKMU7-x4VBPKiKw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-12" value="Tổng hợp dữ liệu:&lt;div&gt;Biến:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Chu kỳ:&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ If ngày -&amp;gt; Chạy model dự đoán ngày&lt;/div&gt;&lt;div&gt;+ If tháng -&amp;gt; Chạy model dự đoán tháng&lt;/div&gt;&lt;div&gt;- Nhãn:&lt;/div&gt;&lt;div&gt;+ Gán nhãn 1 với các thuê bao mua gói người dùng nhập (trong 3 tháng gần nhất)&lt;/div&gt;&lt;div&gt;+ Else nhãn 0&lt;/div&gt;&lt;div&gt;-&amp;gt; Chạy model và cho ra top 10 feature&lt;/div&gt;&lt;div&gt;- Số lượng thuê bao mục tiêu&lt;/div&gt;&lt;div&gt;+ Chọn khoảng giá trị của mỗi feature&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="270" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Cun0taKMU7-x4VBPKiKw-16" value="Lưu mục tiêu với tên:&lt;div&gt;Dự đoán thuê bao mua gói &amp;lt;Tên mục tiêu&amp;gt;&lt;/div&gt;&lt;div&gt;Gọi ý danh mục:&lt;/div&gt;&lt;div&gt;Top 10 feature&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="180" width="130" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
